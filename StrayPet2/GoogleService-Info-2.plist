@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>244898674848-9h8h3t3lqli8u890tolbsfqhjie7dou5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.244898674848-9h8h3t3lqli8u890tolbsfqhjie7dou5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBcl4OJZoxwgvwgmS0oY4RuOodtPusTXiE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>244898674848</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>classHomwork.StrayPet2</string>
+	<key>PROJECT_ID</key>
+	<string>straypat-60e84</string>
+	<key>STORAGE_BUCKET</key>
+	<string>straypat-60e84.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:244898674848:ios:81990e4f84d3224b</string>
+	<key>DATABASE_URL</key>
+	<string>https://straypat-60e84.firebaseio.com</string>
+</dict>
+</plist>
